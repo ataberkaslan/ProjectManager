@@ -1,0 +1,18 @@
+{
+  "name": "project-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ataberk ASLAN",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  },
+  "repository":  {
+    "type": "git",
+    "url": "https://github.com/MrUnl/ProjectManager.git"
+  }
+}
