@@ -9,9 +9,10 @@
   "author": "Ataberk ASLAN",
   "license": "ISC",
   "dependencies": {
+    "command-exists": "^1.2.9",
     "inquirer": "^8.1.0"
   },
-  "repository":  {
+  "repository": {
     "type": "git",
     "url": "https://github.com/MrUnl/ProjectManager.git"
   }
