@@ -1,5 +1,5 @@
 # Project Manager
-Project Manager for [Ataberk ASLAN](https://github.com/MrUnl)
+Project Manager for [Ataberk ASLAN](https://github.com/ataberkaslan)
 
 ## Supported Terminals
 Mac OS:
